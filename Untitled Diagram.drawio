@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T00:13:34.233Z" agent="5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/604.1" etag="j410mJppGatxqao3LVrG" version="13.11.0" type="github"><diagram id="U0N_SxTG264qBtzNGbrM" name="Page-1">zZjfU6MwEMf/Gh6doVBq+2hr1XNOvbl64/nkBJJCNCRcWGzrX38JhPJTp3ejbV80+SYhy2c3YbeWO4vXlxIl0Y3AhFmOjdeWe245jju21V8tbAphZBshlBQX0qASFvSNGLGcllFM0sZEEIIBTZpiIDgnATQ0JKVYNactBWvumqCQdIRFgFhXfaAYokIdO6eVfkVoGJU7D0aTYiRG5WTzJmmEsFjVJHduuTMpBBSteD0jTLMruRTrLt4Z3RomCYeeBcJ/1jwcmyFfuSSfUCy5J2uz4Eo9UhRi+djs19M4nU8APdzPF3PsOZPbx5PB1tytGSlsSkSriAJZJCjQ/ZWKAsudRhDrPQeq2bXTmP5KJJB1TTI7XBIRE5AbNaUc9QzDTTM4VpVHBiXmqOaNodGQCYJw++SKk2qYlyq7hlw/9l4+nnkhxDLDZJaloPaSeiWnQBGoIM6jVL11ioAKbqKi4gi5X+roJEnpG/LzCbbqowxEWhwRPYwYDblqB4qs2sqdaqJUxe6ZGYgpxnrxNBGUQw7Bm1reuVKWlLGZYEItO+eC60kpSPFCWqIUGccEGwM+w5cDr+FLp8eX4x5fOv/uy47z7tj1cjKJUmeSrk88vHkKfk5PBh3nTYU+NwkNXrTPsiS3ThmnNs/vKUKA8jC/ibQHCcfqn5BYedZyRijWB4D7abIFtt/DMmwCHtg7npbRJxC+9X8/zVaPF2iGw+shvXnjP2gP4SvE8UpSAMJr6PaPqnmt9MbiXkm5HVJ3ho2dMAVCB9or1VF4lmEqjiHaRsfGcLgDQ6rDLr9v90/MtY+NWPfztUgICaLyhrs/DKh2aLkHB3XaAfWNv5SU2ofxUNSODVppUI0CwSrHNl0hIRKh4IjNK7WVdlRzvguRGFbPBGBjCgadGO1IMhWZDMgH9pr8Xdv4IW9JmMrjXpt1Qh89s/SHzsEqPw2dpqOGXssBgGRIwKxq+WBrxv+7ZdKJ5fkaJMpLhvyDnF+TS4X1TLeAxJajdrL/ZIgDhU3R01bQIC06vkQ6FTpAxtMk2RPyQ3uvId/NeBZFlqgKgCWVcX8BsAdSraDzDn87vJPy1L7WB6c02rXe/DpK3aSmVmFyFBP1WJ7Fvu6PmC4jfd0KdavkiVUR+sEoAUTZQbLwVkV4+oUFi+pWv7gUV2n1s5U7/ws=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-08T00:43:15.741Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="ucAlIa0BACdV0mJhlntz" version="13.11.0" type="github">
+  <diagram id="U0N_SxTG264qBtzNGbrM" name="Page-1">
+    <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h6yfB7R2HLGsSNviUl_0-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="440" width="730" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="h6yfB7R2HLGsSNviUl_0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uU_8sE9taWTESEd529NY-1" target="OlJf99hs29sx-5dy_cRB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Customer initiates conversation" Text="Hello" id="uU_8sE9taWTESEd529NY-1">
+          <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="320" y="10" width="120" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="h6yfB7R2HLGsSNviUl_0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OlJf99hs29sx-5dy_cRB-1" target="NbX_CwYFaCdgJ4iMznPi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h6yfB7R2HLGsSNviUl_0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OlJf99hs29sx-5dy_cRB-1" target="NbX_CwYFaCdgJ4iMznPi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OlJf99hs29sx-5dy_cRB-1" value="Bot picks up with a greeting to send orders&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6yfB7R2HLGsSNviUl_0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbX_CwYFaCdgJ4iMznPi-1" target="NbX_CwYFaCdgJ4iMznPi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-1" value="Handwritten orders" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6yfB7R2HLGsSNviUl_0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbX_CwYFaCdgJ4iMznPi-3" target="NbX_CwYFaCdgJ4iMznPi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-3" value="Orders placed via Audio&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6yfB7R2HLGsSNviUl_0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbX_CwYFaCdgJ4iMznPi-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-4" value="Orders placed in text" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-5" value="Speech to Text" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-7" value="Ink to &amp;nbsp;Text" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-9" value="Extract order info: item, quantity, metrics, brand" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="490" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-11" value="Send confirmation" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-13" value="Order placed" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="740" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-14" value="Customer name/number&lt;br&gt;Order date&lt;br&gt;Order details" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h6yfB7R2HLGsSNviUl_0-14" value="&lt;b&gt;DIALOG FLOW&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
