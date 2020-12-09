@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T07:36:49.419Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="zNm-hX8sEbdAMIDiRGa4" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T14:07:46.257Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="g8vrxaxQYYJviX3iWTQu" version="13.11.0" type="github">
   <diagram id="U0N_SxTG264qBtzNGbrM" name="Page-1">
     <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,20 +44,33 @@
             <mxPoint x="380" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbX_CwYFaCdgJ4iMznPi-4" value="Orders placed in text" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3phkiqsdyby_MGjaKC17-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.671;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NbX_CwYFaCdgJ4iMznPi-4" target="h6yfB7R2HLGsSNviUl_0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX_CwYFaCdgJ4iMznPi-4" value="Orders typed in text" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3phkiqsdyby_MGjaKC17-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.451;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NbX_CwYFaCdgJ4iMznPi-5" target="h6yfB7R2HLGsSNviUl_0-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NbX_CwYFaCdgJ4iMznPi-5" value="Speech to Text" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3phkiqsdyby_MGjaKC17-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.233;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NbX_CwYFaCdgJ4iMznPi-7" target="h6yfB7R2HLGsSNviUl_0-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NbX_CwYFaCdgJ4iMznPi-7" value="Ink to &amp;nbsp;Text" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbX_CwYFaCdgJ4iMznPi-9" value="Extract order info: item, quantity, metrics, brand" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="490" width="400" height="60" as="geometry" />
+          <mxGeometry x="130" y="475" width="560" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="h6yfB7R2HLGsSNviUl_0-14" value="&lt;b&gt;DIALOG FLOW&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="450" width="100" height="20" as="geometry" />
+        <mxCell id="h6yfB7R2HLGsSNviUl_0-14" value="&lt;b&gt;Intent/text parser&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="450" width="720" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3phkiqsdyby_MGjaKC17-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="45" y="730" width="740" height="410" as="geometry" />
@@ -76,6 +89,9 @@
         </mxCell>
         <mxCell id="3phkiqsdyby_MGjaKC17-8" value="Confirm Order" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="1040" width="104" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3phkiqsdyby_MGjaKC17-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.options;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="495" y="770" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
