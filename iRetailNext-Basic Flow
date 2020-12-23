@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T09:18:26.157Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="kUmNySya7LIqE_R-dHQD" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T09:20:18.624Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="Xiyn0L6jEL9F6GJJUUom" version="14.0.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,11 +39,17 @@
         <mxCell id="AS0MYtcnc8GPZgkn4BHv-8" value="Customer places order on WhatsApp" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="225" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hNjd8GX1t-Em_JFvq8Wv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AS0MYtcnc8GPZgkn4BHv-9" target="AS0MYtcnc8GPZgkn4BHv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AS0MYtcnc8GPZgkn4BHv-9" value="Get Order Details" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="230" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AS0MYtcnc8GPZgkn4BHv-14" value="Parse Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hNjd8GX1t-Em_JFvq8Wv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AS0MYtcnc8GPZgkn4BHv-17" target="AS0MYtcnc8GPZgkn4BHv-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AS0MYtcnc8GPZgkn4BHv-17" value="Merchant confirms Order" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="310" width="120" height="60" as="geometry" />
@@ -72,20 +78,20 @@
         <mxCell id="AS0MYtcnc8GPZgkn4BHv-25" value="Order Finalized" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AS0MYtcnc8GPZgkn4BHv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=25;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AS0MYtcnc8GPZgkn4BHv-27" target="AS0MYtcnc8GPZgkn4BHv-28" edge="1">
+        <mxCell id="hNjd8GX1t-Em_JFvq8Wv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;fontColor=#3333FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AS0MYtcnc8GPZgkn4BHv-27" target="AS0MYtcnc8GPZgkn4BHv-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AS0MYtcnc8GPZgkn4BHv-27" value="Delivery confirmed" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AS0MYtcnc8GPZgkn4BHv-28" value="Dear customer, your order is confirmed and is scheduled for delivery.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="650" y="600" width="160" height="90" as="geometry" />
+        <mxCell id="AS0MYtcnc8GPZgkn4BHv-28" value="Dear customer, your order is confirmed and is scheduled for delivery.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="640" y="600" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="AS0MYtcnc8GPZgkn4BHv-31" value="Customer Purchase History" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AS0MYtcnc8GPZgkn4BHv-32" value="Return Stored in Customer Profile" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AS0MYtcnc8GPZgkn4BHv-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-128.png" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="690" y="30" width="60" height="60" as="geometry" />
